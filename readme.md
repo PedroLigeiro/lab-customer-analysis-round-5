@@ -2,7 +2,7 @@
 
 # Lab | Customer Analysis Round 5
 
-For this lab, we still keep using the `marketing_customer_analysis.csv` file that you can find in the `files_for_lab` folder.
+For this lab, we still keep using the `marketing_customer_analysis.csv` file that you used from Rounds 3 and 4.
 
 ### Get the data
 
