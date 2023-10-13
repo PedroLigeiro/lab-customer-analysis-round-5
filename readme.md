@@ -19,4 +19,4 @@ Done in the round 3.
 (_Further processing..._)
 
 - X-y split.
-- Normalize (numerical).
+- Scaling (numerical).
