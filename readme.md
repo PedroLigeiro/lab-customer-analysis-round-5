@@ -6,7 +6,8 @@ For this lab, we still keep using the `marketing_customer_analysis.csv` file tha
 
 ### Get the data
 
-We are using the `marketing_customer_analysis.csv` file.
+We are using the `marketing_customer_analysis.csv` file and the same Jupyter notebook from the previous rounds 3 and 4.
+There is no need to fork and clone this repository.
 
 ### Dealing with the data
 
