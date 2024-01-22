@@ -18,5 +18,6 @@ Done in the round 3.
 
 (_Further processing..._)
 
-- X-y split.
-- Scaling (numerical).
+- X-y split.  Remember that at this time yoou need the complete dataset, both numerical and categorical in the X features.
+- X split into X_numerical and X_categorical
+- Scaling (X_numerical).
